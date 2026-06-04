@@ -1,11 +1,11 @@
-  # 100 Days of Code
-  Aku belajar Python hari-hari.
-  Day 2: Calculator
-  Day 3: Port scanner loop 
-  Day 4: Log writer (simpan hasil scan ke file)
-  Day 5: Interactive input scanner (input, int, append log)
-  Day 6-7: Scanner fake (simulasi)
-  Day 8: Scanner real guna socket
-  Day 9: Range scanner (scan 1-100 automatik)
-  Day 11: Service detection
-  Day 12: Final scanner (threading + service detec
+  # 100 Days of Code 
+I'm learning Python these days. 
+Day 2: Calculator 
+Day 3: Port scanner loop 
+Day 4: Log writer (save scan result to file) 
+Day 5: Interactive input scanner (input, int, append log) 
+Day 6-7: Fake scanner (simulation) 
+Day 8: Real scanner using socket 
+Day 9: Range scanner (scan 1-100 automatically) 
+Day 11: Service detection 
+Day 12: Final scanner (threading + service detect
