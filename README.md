@@ -8,3 +8,4 @@
   Day 8: Scanner real guna socket
   Day 9: Range scanner (scan 1-100 automatik)
   Day 11: Service detection
+  Day 12: Final scanner (threading + service detec
