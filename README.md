@@ -9,3 +9,16 @@ Day 8: Real scanner using socket
 Day 9: Range scanner (scan 1-100 automatically) 
 Day 11: Service detection 
 Day 12: Final scanner (threading + service detect
+
+
+
+
+
+## Current Focus
+
+- Python basics
+- File handling
+- Networking fundamentals
+- Socket programming
+- Cybersecurity basics
+- DevSecOps preparation
