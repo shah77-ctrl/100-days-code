@@ -17,6 +17,8 @@ Started on 12 May 2026.
 - Day 10: Fast scanner using threading
 - Day 11: Service detection
 - Day 12: Fast service scanner using threading and service detection
+- Day 13: Password strength checker
+
 
 ## Current Focus
 
