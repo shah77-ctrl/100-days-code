@@ -206,7 +206,6 @@ Reminder:
 - not isalnum() = not letter and not number, treated as symbol.
 - Do not test using real passwords.
 
-# Python Learning Notes
 
 ## Day 14 - Log Analyzer
 
