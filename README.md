@@ -19,6 +19,7 @@ Started on 12 May 2026.
 - Day 12: Fast service scanner using threading and service detection
 - Day 13: Password strength checker
 - Day 14: Log analyzer
+- Day 15: Simple login system with login attempt limit
 
 ## Current Focus
 
