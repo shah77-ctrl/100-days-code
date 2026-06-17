@@ -1,4 +1,4 @@
-## Day 1 to Day 13 - Review Notes
+## Day 1 to Day 100 - Review Notes
 
 ### Day 1 - GitHub Setup and Python Basics
 Main idea:
