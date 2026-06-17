@@ -1,13 +1,12 @@
-# Day 15 - Simple Login System
-# This program checks username and password.
-
 correct_username = "admin"
 correct_password = "1234"
 
-username = input("Enter username: ")
-password = input("Enter password: ")
+for attempt in range(3):
+    username = input("Enter username: ")
+    password = input("Enter password: ")
 
-if username == correct_username and password == correct_password:
-    print("Login successful")
-else:
-    print("Login failed")
+    if username == correct_username and password == correct_password:
+        print("Login successful")
+        break
+    else:
+        print("Login failed")
