@@ -279,3 +279,64 @@ Checks whether the login never succeeded after all attempts. If still False, the
 - How to limit login attempts
 - How to use break
 - How to use a True / False flag
+
+# Day 16 - Login System with User Roles
+
+## Keywords
+
+- **username**
+- **password**
+- **role**
+- **user_data**
+- **nested dictionary**
+- **.get()**
+- **if / elif / else**
+- **indentation**
+
+---
+
+## Main Flow
+
+```text
+username → password → role → output
+Dictionary
+users = {
+    "admin": {
+        "password": "1234",
+        "role": "admin"
+    },
+    "student": {
+        "password": "abcd",
+        "role": "student"
+    }
+}
+Meaning
+admin = username
+student = username
+password = saved password
+role = access level
+Important Syntax
+user_data = users.get(username)
+get username
+return user data
+if not found → None
+Example
+username = "student"
+user_data = {
+    "password": "abcd",
+    "role": "student"
+}
+Checks
+if user_data:
+username exists
+password == user_data["password"]
+check password
+user_data["role"]
+get role
+Output Example
+Login successful
+Welcome student. You have limited access.
+Key Reminder
+username = typed by user
+user_data = stored password + role
+output = print result
